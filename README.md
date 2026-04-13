@@ -4,7 +4,7 @@ This repository contains the implementation, training, and inference code for th
 
 ![CGAN](./screenshots/cgan.png)
 ![CVAE](./screenshots/cvae.png)
-![DDPM](./screenshots/ddpm.png)
+![DDPM](./screenshots/cdiff.png)
 
 ## Overview
 
