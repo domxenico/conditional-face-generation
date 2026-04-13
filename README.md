@@ -2,6 +2,10 @@
 
 This repository contains the implementation, training, and inference code for three conditional generative models tailored for human face generation. The project was developed as part of a university course on Generative Artificial Intelligence, extending unconditional base algorithms to include conditional attributes.
 
+![CGAN](./screenshots/cgan.png)
+![CVAE](./screenshots/cvae.png)
+![DDPM](./screenshots/ddpm.png)
+
 ## Overview
 
 The goal of this project is to model the distribution of human face images using the CelebA dataset and conditionally generate outputs based on specific attributes. The three models implemented are:
