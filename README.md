@@ -2,13 +2,13 @@
 
 This repository contains the implementation, training, and inference code for three conditional generative models tailored for human face generation. The project was developed as part of a university course on Generative Artificial Intelligence, extending unconditional base algorithms to include conditional attributes.
 
-Generative Adversarial Network
+# Generative Adversarial Network
 ![CGAN](./screenshots/cgan.png)
 
-Variational Autoencoder
+# Variational Autoencoder
 ![CVAE](./screenshots/cvae.png)
 
-Conditional Denoising Diffusion Probabilistic Model
+# Conditional Denoising Diffusion Probabilistic Model
 ![DDPM](./screenshots/cdiff.png)
 
 ## Overview
